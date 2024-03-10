@@ -1,3 +1,14 @@
 [
-    "usr_13d44699-7d7e-40b0-81ba-52bddf9b842f"
+    {
+        "UserID": "usr_13d44699-7d7e-40b0-81ba-52bddf9b842f",
+        "CustomTag": "[SERENADE]"
+    },
+    {
+        "UserID": "usr_2b1b8c7c-5f38-4b5d-bc44-0b7f9a13f5d2",
+        "CustomTag": "Player2"
+    },
+    {
+        "UserID": "usr_a67e9ed3-88c7-45f1-94f8-f6edcfd1e088",
+        "CustomTag": "Player3"
+    }
 ]
