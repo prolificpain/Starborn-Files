@@ -8,7 +8,7 @@
       "Malicious": false,
       "Active": true,
       "TextActive": true,
-      "BigTextActive": true,
+      "BigTextActive": false,
       "Size": "<size=58>"
     }
   ]
