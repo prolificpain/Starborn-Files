@@ -10,6 +10,17 @@
       "TextActive": true,
       "BigTextActive": true,
       "Size": "<size=58>"
+    },
+    {
+      "id": 100,
+      "UserID": "usr_ad09cb62-1cd5-4d8f-a99a-29a2b6508e74",
+      "Tag": [ "<color=#FFFFFF>funny helper man</color>", "<color=#ff0000>will tickle ur penis</color>" ],
+      "PlateBigText": "<b><color=#FFFFFF>OWNER</color></b>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "<size=58>"
     }
   ]
 }
