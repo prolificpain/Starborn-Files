@@ -21,6 +21,17 @@
       "TextActive": true,
       "BigTextActive": false,
       "Size": "<size=58>"
+    },
+    {
+      "id": 101,
+      "UserID": "usr_076e5128-9fb3-46f4-bd71-22c335b33afd",
+      "Tag": [ "<color=#Ffc0cb>Femboy</color>", "<color=#Ffc0cb>will fuck for free<3</color>" ],
+      "PlateBigText": "<b><color=#Ffc0cb>Bottom</color></b>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true,
+      "Size": "<size=58>"
     }
   ]
 }
